@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\FunctionDemo\dal\bin\Debug\dal.dll
+C:\Users\Administrator\Desktop\FunctionDemo\dal\bin\Debug\dal.pdb
+C:\Users\Administrator\Desktop\FunctionDemo\dal\obj\Debug\dal.dll
+C:\Users\Administrator\Desktop\FunctionDemo\dal\obj\Debug\dal.pdb
+C:\Users\Administrator\Desktop\FunctionDemo\dal\bin\Debug\DBUtility.dll
+C:\Users\Administrator\Desktop\FunctionDemo\dal\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\FunctionDemo\dal\bin\Debug\DBUtility.pdb
+C:\Users\Administrator\Desktop\FunctionDemo\dal\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\FunctionDemo\dal\obj\Debug\dal.csprojResolveAssemblyReference.cache
