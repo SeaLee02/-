@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\FunctionDemo\BLL\bin\Debug\BLL.dll
+C:\Users\Administrator\Desktop\FunctionDemo\BLL\bin\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\FunctionDemo\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\FunctionDemo\BLL\obj\Debug\BLL.dll
+C:\Users\Administrator\Desktop\FunctionDemo\BLL\obj\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\FunctionDemo\BLL\bin\Debug\dal.dll
+C:\Users\Administrator\Desktop\FunctionDemo\BLL\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\FunctionDemo\BLL\bin\Debug\DBUtility.dll
+C:\Users\Administrator\Desktop\FunctionDemo\BLL\bin\Debug\dal.pdb
+C:\Users\Administrator\Desktop\FunctionDemo\BLL\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\FunctionDemo\BLL\bin\Debug\DBUtility.pdb
