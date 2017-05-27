@@ -1,5 +1,0 @@
-C:\Users\Administrator\Desktop\FunctionDemo\DBUtility\bin\Debug\DBUtility.dll
-C:\Users\Administrator\Desktop\FunctionDemo\DBUtility\bin\Debug\DBUtility.pdb
-C:\Users\Administrator\Desktop\FunctionDemo\DBUtility\obj\Debug\DBUtility.dll
-C:\Users\Administrator\Desktop\FunctionDemo\DBUtility\obj\Debug\DBUtility.pdb
-C:\Users\Administrator\Desktop\FunctionDemo\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
