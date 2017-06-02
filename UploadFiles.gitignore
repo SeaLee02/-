@@ -1,0 +1,11 @@
+﻿＃忽略的文件
+UploadFiles / BLL
+UploadFiles /Common
+UploadFiles / DAL
+UploadFiles / DBUtility
+UploadFiles /Model
+UploadFiles /packages
+UploadFiles / WebDemo /bin
+UploadFiles / WebDemo / OBJ
+UploadFiles / WebDemo /properties
+UploadFiles / WebDemo / *.config
