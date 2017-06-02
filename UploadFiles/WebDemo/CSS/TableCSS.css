@@ -1,0 +1,30 @@
+﻿/**{ margin:0px; padding:0px; border:none; color:#393939; font-size:12px; font-family:"Microsoft YaHei"; list-style-type:none;}*/
+a{ color:#393939; text-decoration:none;}
+a:hover{ color:#E52061; text-decoration:none;}
+
+/* TABLE --------------- */
+ /*.list{ width:100%; float:left; overflow:hidden;}*/
+ .list{ width:800px;  margin:50px auto; overflow:hidden;}
+ .list table{ width:100%; float:left; background:#FFF; border-right:1px solid #E3E3E3;}
+ .list table input{ float:left;}
+ .list table i{ font-style:normal;}
+ .list table tr.odd{ background:#FFF;}
+ .list table tr.even{ background:#DCF2FF;}
+ .list table tr.active{ background:#FFFED6;}
+ .list table th{ height:28px; padding:0 6px; color:#FFF; text-align:left; background:#77CDFF; border-bottom:1px solid #96D9FF; border-left:1px solid #96D9FF;}
+ .list table th:nth-child(1){ text-align:center;}
+ .list table td{ height:30px; padding:0 6px; color:#444; text-align:left; border-bottom:1px solid #E7E7E7; border-left:1px solid #E7E7E7;}
+ .list table td:nth-child(1){ text-align:center;}
+ .list table td a.cause{ color:#E47F00; padding:0 0 0 8px;}
+ .list table td a.button{ height:20px; display:inline-block; vertical-align:top; line-height:20px; margin:2px 3px 2px 0; padding:0 15px; color:#FFF; background:#009EFF; white-space:nowrap; border-radius:2px;}
+ .list table td a.gray{ background:#BFBFBF;}
+
+ .list table td i.bs{ width:100%; float:left;}
+ .list table td a.edit{ display:none;}
+ .list table td input.bs{ width:100%; height:24px; float:left; display:none; margin:2px 0; text-align:center; border:1px solid #96D9FF; background:#F3F3F3;}
+ .list table td select.bs{ width:100%; height:24px; float:left; display:none; margin:2px 0; border:1px solid #96D9FF; background:#F3F3F3;}
+ .list table tr.edit td i.bs,
+ .list table tr.edit td a.bs{ display:none;}
+ .list table tr.edit td input.bs,
+ .list table tr.edit td select.bs,
+ .list table tr.edit td a.edit{ display:block;}
