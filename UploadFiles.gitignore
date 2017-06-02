@@ -1,0 +1,11 @@
+#数据处理
+UploadFiles/BLL
+UploadFiles/Common
+UploadFiles/dal
+UploadFiles/DBUtility
+UploadFiles/Model
+UploadFiles/packages
+UploadFiles/WebDemo/bin
+UploadFiles/WebDemo/obj
+UploadFiles/WebDemo/Properties
+UploadFiles/WebDemo/*.config
