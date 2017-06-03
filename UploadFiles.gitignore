@@ -1,0 +1,26 @@
+﻿＃忽略的文件
+UploadFiles/BLL/
+UploadFiles/Common/
+UploadFiles/DAL/
+UploadFiles/DBUtility/
+UploadFiles/Model/
+UploadFiles/packages/
+
+
+
+UploadFiles/upload/
+UploadFiles/bin/
+UploadFiles/CSS/
+UploadFiles/pageoffice/
+UpliadFiles/DLL/
+UploadFiles/files/
+UploadFiles/JS/
+UploadFiles/images/
+UploadFiles/Video/
+UploadFiles/Scripts/
+UploadFiles/WebDemo/bin
+UploadFiles/WebDemo/obj
+UploadFiles/WebDemo/properties
+UploadFiles/WebDemo/ *.config
+UploadFiles/*.sln
+
