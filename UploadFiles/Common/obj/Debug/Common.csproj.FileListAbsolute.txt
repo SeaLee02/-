@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\FunctionDemo\Common\bin\Debug\Common.dll
+C:\Users\Administrator\Desktop\FunctionDemo\Common\bin\Debug\Common.pdb
+C:\Users\Administrator\Desktop\FunctionDemo\Common\obj\Debug\Common.dll
+C:\Users\Administrator\Desktop\FunctionDemo\Common\obj\Debug\Common.pdb
+C:\Users\Administrator\Desktop\FunctionDemo\Common\bin\Debug\BLL.dll
+C:\Users\Administrator\Desktop\FunctionDemo\Common\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\FunctionDemo\Common\bin\Debug\dal.dll
+C:\Users\Administrator\Desktop\FunctionDemo\Common\bin\Debug\DBUtility.dll
+C:\Users\Administrator\Desktop\FunctionDemo\Common\bin\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\FunctionDemo\Common\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\FunctionDemo\Common\bin\Debug\dal.pdb
+C:\Users\Administrator\Desktop\FunctionDemo\Common\bin\Debug\DBUtility.pdb
+C:\Users\Administrator\Desktop\FunctionDemo\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
