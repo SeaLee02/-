@@ -1,0 +1,173 @@
+﻿a {
+    color: #393939;
+    text-decoration: none;
+}
+
+.add {
+    width: 96px;
+    height: 40px;
+    float: left;
+    line-height: 20px;
+    padding: 7px 0;
+    text-align: center;
+    color: #FFF;
+    background: url(../images/add_button.png);
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.20);
+}
+
+/*新的一层*/
+.shade {
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    z-index: 99999;
+    background: url(../images/mask@bg.png);
+}
+
+/*显示内容的定位，最大的*/
+.shade_mask {
+    width: 500px;
+    float: left;
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    margin: 0 0 0 -250px;
+    background: #FFF;
+    overflow: hidden;
+    border-radius: 5px; /*角圆滑一些*/
+    box-shadow: 0 0 5px rgba(0,0,0,0.20);/*阴影*/
+}
+
+.shade span.title {
+     width: 100%;
+     height: 42px;
+     float: left;
+     background: #3096FF;
+}
+
+ .shade span.title em {
+       max-width: 400px;
+       height: 42px;
+       float: left;
+       line-height: 42px;
+       font-weight: bold;
+       font-style: normal;
+       font-size: 15px;
+       color: #FFF;
+       padding: 0 0 0 10px;
+       overflow: hidden;
+       white-space: nowrap;
+       text-overflow: ellipsis;
+}
+ .shade span.title a {
+      height: 20px;
+      float: left;
+      line-height: 20px;
+      float: right;
+      color: #FFF;
+      margin: 11px 0;
+      padding: 0 10px;
+      border-left: 1px solid #5CACFF;
+}
+
+ .shade span.button {
+        width: 98%;
+        height: 32px;
+        float: left;
+        padding: 15px 2% 15px 0;
+        font-size: 0;
+        text-align: right;
+        border-top: 1px solid #F2F2F2;
+        background: #FAFAFA;
+    }
+
+.shade span.button a {
+         height: 30px;
+         line-height: 30px;
+         color: #FFF;
+         font-size: 14px;
+         margin: 0 3px 0 0;
+         display: inline-block;
+         vertical-align: top;
+}
+
+  .shade span.button a.bc {
+           padding: 0 20px;
+           background: #3096FF;
+ }
+
+  .shade span.button a.qx {
+            padding: 0 20px;
+            background: #E47F00;
+ }
+
+
+/*.shade .pic {
+    width: 100%;
+    height: 340px;
+    background: #FFF;
+}
+
+.shade .video {
+    width: 540px;
+    height: 278px;
+    float: left;
+    margin: 10px;
+}*/
+
+.sheade_data {
+    width: 100%;
+    float: left;
+    padding: 30px 0;
+}
+
+.sheade_data span.list {
+     display: block;
+     overflow: hidden;
+     padding: 10px 30px;
+}
+
+.sheade_data span.list u {
+      width: 80px;
+      height: 32px;
+      float: left;
+      line-height: 32px;
+      text-decoration: none;
+ }
+
+.sheade_data span.list input {
+       width: 200px;
+       height: 30px;
+       float: left;
+       padding: 0 0 0 10px;
+       border: 1px solid #DDD;
+}
+
+/*.sheade_data span.list a.uews {
+        height: 32px;
+        float: left;
+        line-height: 32px;
+        color: #FFF;
+        padding: 0 25px;
+        margin: 0 0 0 -1px;
+        background: #00BBF2;
+}*/
+
+.sheade_data span.list i.icon {
+        height: 32px;
+        float: left;
+        line-height: 32px;
+        font-size: 18px;
+        padding: 0 8px 0 80px;
+        color: #006BBB;
+}
+
+ .sheade_data span.list a.dxz {
+         height: 32px;
+         float: left;
+         line-height: 32px;
+         color: #006BBB;
+}
